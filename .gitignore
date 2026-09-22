@@ -1,0 +1,15 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datasets (download separately, don't commit large data files)
+*.csv
+*.txt
+!requirements.txt
